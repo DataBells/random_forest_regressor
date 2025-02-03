@@ -1,4 +1,5 @@
 # random_forest_regressor <br>
+# Domain: E-commerce
 Building a model that predicts the unit sales for thousands of items sold at different favorite stores more accurately.<br>
 
 A Random Forest Regressor is trained on sampled data and evaluated on a validation set to predict test data sales.<br>
